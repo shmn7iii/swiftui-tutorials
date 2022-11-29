@@ -1,5 +1,5 @@
 //
-//  Profile.swift.swift
+//  Profile.swift
 //  Landmarks
 //
 //  Created by shmn7iii on 2022/11/29.
